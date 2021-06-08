@@ -1,6 +1,4 @@
-![picture](coming_soon.jpeg)
-
-<!-- # Ana Moreno CV
+ # Ana Moreno CV
 
 
 ## Table Of Contents:
@@ -12,20 +10,21 @@
 
 ## Description
 
-This site will provide you with information pertaining to my work experience, skills and more
+This site will provide you with my personal CV which includes information pertaining to my work experience, skills and education as well as my contact information. The form is in HTML only intended to demonstrate that use of HTML headers, links with basic navigation and photos as well as tables, forms, and lists. When viewing the code you will see comments, format and proper file structure. Finally you are able to observe my knowledge and use of GitHub with several commits along with GitHub Pages.
 
 ## Deployment: 
 
-GitHub Repo: Pending
+GitHub Repo: https://github.com/al-moreno/Ana_Moreno_CV
 
-GitHub Pages: Pending
+GitHub Pages: https://al-moreno.github.io/Ana_Moreno_CV/
 
-![picture](Pending)
+![picture](./assets/images/pic.png)
 
 
 ## Installation:
-1.  No installatin if needed 
-
+1.  No installation if needed 
+2.  You may view code through access of GitHub, link provided above.
+3.  You may view site through GitHub Pages, link provided above. 
 
 
 ## License
@@ -38,4 +37,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- --> -->
+ 
