@@ -1,4 +1,5 @@
 :root{
+    --white: white;
     --light: #E4F9F5;
     --ligth_medium: #30E3CA;
     --medium: #11999E;
@@ -10,10 +11,27 @@
 body {
     background-color: var(--light);
     color: var(--dark);
+    margin-top: 0;
 }
 
 h1, h3 {
     color: var(--medium);
+}
+
+
+nav {
+    background-color: var(--white);
+    margin: 0;
+    padding: .6vw;
+}
+
+nav a {
+    display: inline-block;
+    color: var(--dark);
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align:center;
+   
 }
 
 hr {
