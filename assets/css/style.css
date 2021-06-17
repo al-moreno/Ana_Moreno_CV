@@ -1,0 +1,20 @@
+:root{
+    --light: #E4F9F5;
+    --ligth_medium: #30E3CA;
+    --medium: #11999E;
+    --dark: #40514E;
+}
+
+
+
+body {
+    background-color: var(--light);
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: var(--medium);
+    border-width: 5px;
+    width: 10%;
+
+}
