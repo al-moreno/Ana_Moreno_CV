@@ -10,7 +10,7 @@
 
 ## Description
 
-This site will provide you with my personal CV which includes information pertaining to my work experience, skills and education as well as my contact information. The form is in HTML and CSS only intended to demonstrate that use of HTML headers, links with basic navigation and photos as well as tables, forms, and lists. Additionally, I have applied basic CSS to style the page by elements and only impacting color. When viewing the code you will see comments, format and proper file structure. Finally you are able to observe my knowledge and use of GitHub with several commits along with GitHub Pages.
+This site will provide you with my personal CV which includes information pertaining to my work experience, skills and education as well as my contact information. The form utilizes W3Schools framework.
 
 ## Deployment: 
 

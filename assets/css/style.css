@@ -7,37 +7,7 @@
 }
 
 
-
-body {
-    background-color: var(--light);
-    color: var(--dark);
-    margin-top: 0;
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
 }
 
-h1, h3 {
-    color: var(--medium);
-}
-
-
-nav {
-    background-color: var(--white);
-    margin: 0;
-    padding: .6vw;
-}
-
-nav a {
-    display: inline-block;
-    color: var(--dark);
-    padding: 8px 16px;
-    text-decoration: none;
-    text-align:center;
-   
-}
-
-hr {
-    border-style: dotted none none;
-    border-color: var(--medium);
-    border-width: 5px;
-    width: 10%;
-
-}
